@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @muraliprakashmv
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...Blockchain Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in learning new things
+- 🌱 I’m currently learning Blockchain Development
+- 📫 How to reach me mvmurali@protonmail.com
 
 <!---
 muraliprakashmv/muraliprakashmv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
